@@ -1,0 +1,9 @@
+name = "stellcompany"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+keep_vars = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "stellcompany"
+database_id = "48def5bd-8c42-48e9-ba14-52e6d5e3fe0c"
